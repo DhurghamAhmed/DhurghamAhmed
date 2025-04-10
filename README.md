@@ -25,36 +25,7 @@ Passionate software developer with a keen eye for detail and a love for clean, e
 </div>
 
 
-## 📊 GitHub Analytics
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=username&show_icons=true&theme=aura&include_all_commits=true&count_private=true&border_color=6A5ACD"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=username&theme=aura&border=6A5ACD"/>
-</div>
-
-<div align="center">
-  <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhurghamAhmed&layout=compact&langs_count=8&theme=aura&border_color=6A5ACD"/>
-</div>
-
-## 🌱 Current Endeavors
-
-```javascript
-const currentFocus = {
-  project: "Building an innovative platform for [your project]",
-  learning: "Deep diving into [technology/language]",
-  collaboration: "Open to working on projects involving [area of interest]",
-  goal2025: "Contribute meaningfully to open source and master [skill]"
-};
-```
-
-## 🎵 Current Playlist
-
-<div align="center">
-  
-  ![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=username&cover_image=true&theme=novatorem" alt="Spotify Now Playing" width="350"/>
-  
-</div>
 
 ## 📫 Connect With Me
 
