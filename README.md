@@ -24,16 +24,6 @@ Passionate software developer with a keen eye for detail and a love for clean, e
   
 </div>
 
-## ✨ Featured Creations
-
-<div align="center">
-  <a href="https://github.com/username/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=username&repo=project1&theme=aura&border_color=6A5ACD" />
-  </a>
-  <a href="https://github.com/username/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=username&repo=project2&theme=aura&border_color=6A5ACD" />
-  </a>
-</div>
 
 ## 📊 GitHub Analytics
 
