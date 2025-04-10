@@ -3,12 +3,12 @@
 <div align="center">
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="350">
   <br><br>
-  <p><em>"Crafting elegant solutions to complex problems through code"</em></p>
+  <p><em>"First class scammer"</em></p>
 </div>
 
 ## 🚀 About Me
 
-Passionate software developer with a keen eye for detail and a love for clean, efficient code. I transform innovative ideas into functional digital experiences. My journey in technology is driven by curiosity and the endless possibilities of creating meaningful solutions.
+he/him (or anything you like; I don't care)
 
 ## 💻 Technical Skills
 
@@ -38,5 +38,4 @@ Passionate software developer with a keen eye for detail and a love for clean, e
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=username&style=for-the-badge&color=6A5ACD" alt="Profile Visitors" />
-  <p><em>Thank you for visiting my digital garden. Feel free to explore and connect!</em></p>
 </div>
