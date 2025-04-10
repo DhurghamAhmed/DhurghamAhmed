@@ -42,7 +42,5 @@ Passionate software developer with a keen eye for detail and a love for clean, e
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=username&style=for-the-badge&color=6A5ACD" alt="Profile Visitors" />
-  <p><em>Thank you for visiting my digital garden. Feel free to explore and connect!</em></p>
+
   
-  <img src="https://github.com/username/username/blob/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Grid Snake Animation" width="100%"/>
-</div>
