@@ -1,4 +1,4 @@
-# ✨ Dhurgham ahmed ✨
+# ✨ Dhurgham Ahmed ✨
 
 <div align="center">
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="350">
@@ -10,7 +10,7 @@
 
 Passionate software developer with a keen eye for detail and a love for clean, efficient code. I transform innovative ideas into functional digital experiences. My journey in technology is driven by curiosity and the endless possibilities of creating meaningful solutions.
 
-## 💻 Technical 
+## 💻 Technical Skills
 
 <div align="center">
   
@@ -24,23 +24,19 @@ Passionate software developer with a keen eye for detail and a love for clean, e
   
 </div>
 
-
-
-
 ## 📫 Connect With Me
 
 <div align="center">
   
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/username)
-  [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/username)
-  [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.com)
-  [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-  
+  [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/idisr/#)
+  [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kkjkk)
+  [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/.disr.)
+  [![Website](https://img.shields.io/badge/-Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://idisr.com)  
 </div>
 
 ---
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=username&style=for-the-badge&color=6A5ACD" alt="Profile Visitors" />
-
-  
+  <p><em>Thank you for visiting my digital garden. Feel free to explore and connect!</em></p>
+</div>
