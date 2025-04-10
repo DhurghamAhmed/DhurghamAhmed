@@ -1,4 +1,4 @@
-# ✨ Welcome to My Digital Universe ✨
+# ✨ Dhurgham ahmed ✨
 
 <div align="center">
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="350">
@@ -10,7 +10,7 @@
 
 Passionate software developer with a keen eye for detail and a love for clean, efficient code. I transform innovative ideas into functional digital experiences. My journey in technology is driven by curiosity and the endless possibilities of creating meaningful solutions.
 
-## 💻 Technical Symphony
+## 💻 Technical 
 
 <div align="center">
   
@@ -43,7 +43,7 @@ Passionate software developer with a keen eye for detail and a love for clean, e
 </div>
 
 <div align="center">
-  <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=username&layout=compact&langs_count=8&theme=aura&border_color=6A5ACD"/>
+  <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhurghamAhmed&layout=compact&langs_count=8&theme=aura&border_color=6A5ACD"/>
 </div>
 
 ## 🌱 Current Endeavors
