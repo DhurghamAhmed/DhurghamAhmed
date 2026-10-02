@@ -1,0 +1,23 @@
+{
+ "repos": 18,
+ "bytes": {
+  "Objective-C": 115,
+  "C": 4481,
+  "Kotlin": 634,
+  "Dart": 7374919,
+  "Python": 86788,
+  "Ruby": 6175,
+  "Swift": 150775,
+  "CMake": 61260,
+  "C++": 93131,
+  "Shell": 77757,
+  "JavaScript": 377572,
+  "HTML": 26336,
+  "PLpgSQL": 155068,
+  "TypeScript": 3790007,
+  "CSS": 105170,
+  "Go": 2611417,
+  "PowerShell": 3596,
+  "Makefile": 2531
+ }
+}
